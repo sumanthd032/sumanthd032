@@ -52,14 +52,25 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanthd032&show_icons=true&theme=radical&hide_title=false" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthd032&theme=radical" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthd032&layout=compact&theme=radical" width="40%">
-</p>
+# 📊 GitHub Stats:
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sumanthd032&theme=neon-palenight&hide_border=true&card_width=750" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanthd032&theme=2077" alt="GitHub Profile Details" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sumanthd032&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" height="180em" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthd032&layout=compact&theme=highcontrast" alt="Top Languages" height="180em" />
+    </td>
+  </tr>
+</table>
 
 ---
 
